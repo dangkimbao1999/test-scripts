@@ -1,0 +1,21 @@
+{
+  "name": "rarible-order-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@rarible/action": "^0.10.0-alpha.14",
+    "@rarible/ethereum-api-client": "^0.1.26-beta3",
+    "@rarible/ethereum-provider": "^0.13.56",
+    "@rarible/types": "^0.10.0-alpha.14",
+    "@rarible/utils": "^0.10.0-alpha.14",
+    "tslib": "^2.6.2",
+    "typescript": "^5.2.2",
+    "web3": "^4.2.2"
+  }
+}
